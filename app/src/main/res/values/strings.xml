@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BTLT1</string>
+    <string name="user">Username</string>
+    <string name="pw">Password</string>
+    <string name="re">Retype</string>
+    <string name="birth">Birthdate</string>
+    <string name="sel">Select</string>
+    <string name="gen">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="hob">Hobbies</string>
+    <string name="ten">Tennis</string>
+    <string name="fut">Futbal</string>
+    <string name="oth">Others</string>
+    <string name="reset">Reset</string>
+    <string name="sign">Sign-up</string>
+    <string name="info">Your information registered</string>
+    <string name="user1">Username: </string>
+    <string name="pw1">Password: </string>
+    <string name="birth1">Birthdate: </string>
+    <string name="gen1">Gender: </string>
+    <string name="hob1">Hobbies: </string>
+    <string name="ext">Exit</string>
+</resources>
